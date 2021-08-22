@@ -99,7 +99,7 @@ def CSGOCheck(channelDataID):
 
 
   except:
-    if((channelDataID == 690952309827698749) or (channelDataID == 689903856095723569)):
+    if((channelDataID == #Assign the values for the channels you want a shorter version of the result to be sent too here):
       embed= "There is currently no games planned for OG, for more information use !nextcsgo in <#721391448812945480>"
     else:
       embed=discord.Embed(title="OG CSGO's next game", url="https://www.hltv.org/team/10503/og#tab-matchesBox",color=0xff8800)

@@ -83,7 +83,7 @@ def CSGOCheck(channelDataID):
       datep3 = str(datep2) + ":" + datep1[1]
 
     #Prints based on pro-match channel - will give a more chat friendly version
-    if((channelDataID == 690952309827698749) or (channelDataID == 689903856095723569)):
+    if((channelDataID #Assign the values for the channels you want a shorter version of the result to be sent too here):
       embed=teams + " - Starts in: " + time2 + " - For more information use !nextcsgo in <#721391448812945480>"
     else:
       embed=discord.Embed(title="OG CSGO's next game", url="https://www.hltv.org/team/10503/og#tab-matchesBox",color=0xff8800)

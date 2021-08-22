@@ -156,7 +156,7 @@ def DotaCheck(channelDataID):
           c = "No games planned"
 
       #Verifies the channels if in pro-match 
-      if((channelDataID == 689903856095723569) or (channelDataID == 690952309827698749)):
+      if((channelDataID #assign any values you want here to have shorter versions of the result):
         c= str(c)
         if (c == "No games planned"):
           embed = "No games planned currently - For more information use !nextdota in <#721391448812945480>"

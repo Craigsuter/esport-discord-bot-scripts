@@ -177,3 +177,4 @@ def DotaStreams():
 
 
   #This will pass back the data about the teams playing / and the stream links including flags in Discord format and a link to the page it found the streams
+  #Update line 15 with team link

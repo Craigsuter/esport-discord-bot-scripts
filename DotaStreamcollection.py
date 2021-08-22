@@ -3,19 +3,11 @@ from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup as soup
 import discord
 import os
-from discord.ext import commands
 from dotenv import load_dotenv
 load_dotenv()
-from discord.utils import get
-#from datetime import date
-#from datetime import datetime
-import datetime
-from time import strptime
-import asyncio
-from itertools import cycle
 import asyncio
 import requests
-import time
+
 #Gets the streams from OG's Liquipedia
 def DotaStreams():
   headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36'}

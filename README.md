@@ -5,6 +5,4 @@ They will help for giving users up to date data on the team you support / tourna
 
 To come:
 
-I will be adding a 'main' file to this code area so that you can see how the main file needs to be formatted with examples of the code being used!
-
-I will also include a step-by-step guide on setting up your own discord bot + free hosting
+I will be adding a 'main' file to this code area so that you can see how the main file needs to be formatted with examples of the code being used! - https://willsdiscordbot.wordpress.com/2021/08/28/creating-a-discord-bot-and-hosting/ This has been done by creating a full guide of producing your own bot!
